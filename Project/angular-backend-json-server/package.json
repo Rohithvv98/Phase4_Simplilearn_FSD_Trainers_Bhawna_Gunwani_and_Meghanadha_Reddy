@@ -1,0 +1,15 @@
+{
+  "name": "angular-backend-json-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server questions.json --watch --port=5000",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "json:server1":"json-server user.json --watch --port=5001",
+    "json:server2":"json-server answers.json --watch --port=5002"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

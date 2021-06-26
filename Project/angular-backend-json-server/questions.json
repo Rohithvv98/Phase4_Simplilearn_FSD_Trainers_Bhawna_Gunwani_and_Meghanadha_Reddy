@@ -1,0 +1,96 @@
+{
+    "questions":[
+
+        {
+            "id": 1,
+            "question": "A man has Rs.480 in the denominations of one-rupee notes, five-rupee notes and ten-rupee notes. The number of notes of each denomination is equal. what is total number of notes that he has ?",
+            "A": "60",
+            "B": "75",
+            "C": "90",
+            "D": "45",
+            "correct":"C"
+        },
+        {
+            "id": 2,
+            "question": "A batsman scored 110 runs which included 3 boundaries and 8 sixes. What percent of his total score did he make by running between the wicket ?",
+            "A": "45%",
+            "B": "45 5/11 %",
+            "C": "54 6/11 %",
+            "D": "55%",
+            "correct":"B"
+        },
+        {
+            "id": 3,
+            "question": "Harry buys an old scooter for Rs. 4700 and spends Rs. 800 on its repairs. If he sells the scooter for Rs. 5800, his gain percent is :",
+            "A": "60/11 %",
+            "B": "10 %",
+            "C": "12 %",
+            "D": "33/7 %",
+            "correct":"A"
+        },
+        {
+            "id": 4,
+            "question": "The angle of elavation of a ladder leaning against a wall is 60° and the foot of the ladder is 4.6 m away from the wall. The length of the ladder is : ",
+            "A": "2.3 m",
+            "B": "4.6 m",
+            "C": "9.2 m",
+            "D": "7.8 m",
+            "correct":"C"
+        },
+        {
+            "id": 5,
+            "question": "A train 125m long passes a man, running at 5km/hr in the same direction in which the train is going, in 10 seconds. The speed of the train is :",
+            "A": "50 km/hr",
+            "B": "45 km/hr",
+            "C": "54 km/hr",
+            "D": "52 km/hr",
+            "correct":"A"
+        },
+        {
+            "id": 6,
+            "question": "Two ships are sailing in the sea on the two sides of a lighthouse. The angle of elavation of the top of the lighthouse is observed from the ships are 30° and 45° respectively. If the lighthouse is 100m high, the distance between the two ships is :",
+            "A": "173 m",
+            "B": "300 m",
+            "C": "273 m",
+            "D": "200 m",
+            "correct":"C"
+        },
+        {
+            "id": 7,
+            "question": "A train running at a speed of 60 km/hr crosses a pole in 9 seconds. What is the length of the train?",
+            "A": "120 meters",
+            "B": "150 meters",
+            "C": "324 meters",
+            "D": "180 meters",
+            "correct":"B"
+        },
+        {
+            "id": 8,
+            "question": "The average salary of all the employees in a small organization is Rs 8,000. The average salary of 7 technicians is Rs 12,000 and the average salary of the rest is Rs 6,000. The total number of employees in the organisation is?",
+            "A": "26",
+            "B": "21",
+            "C": "20",
+            "D": "28",
+            "correct":"A"
+        },
+        {
+            "id": 9,
+            "question": "Raj introduces Mohit as the son of the only brother of his father’s wife. How is Mohit related to Raj?",
+            "A": "Son",
+            "B": "Uncle",
+            "C": "Cousin",
+            "D": "Son-in-law",
+            "correct":"C"
+        },
+        {
+            "id": 10,
+            "question": "The sum of three numbers is 98. If the ratio between first and second be 2 : 3 and that between second and third be 5 : 8, then the second number is?",
+            "A": "48",
+            "B": "58",
+            "C": "20",
+            "D": "30",
+            "correct":"D"
+        }
+
+    ]
+}
